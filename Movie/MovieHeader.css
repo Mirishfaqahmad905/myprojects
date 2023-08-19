@@ -1,0 +1,35 @@
+/* MovieHeader.css */
+.movie-header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .movie-header-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .movie-header-poster img {
+    width: 150px;
+    height: 225px;
+    object-fit: cover;
+  }
+  
+  .movie-header-details {
+    margin-left: 20px;
+  }
+  
+  .movie-header-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .movie-header-overview {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Add additional CSS styling as needed */
+  

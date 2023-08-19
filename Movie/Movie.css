@@ -1,0 +1,20 @@
+ .movie-container{
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+ }
+.movie-poster {
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: space-around;
+      flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .img-poster {
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+  }
+  

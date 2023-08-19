@@ -1,0 +1,26 @@
+.api-called{
+     display: flex;
+     background-color: rgb(87, 226, 7);
+}
+.api-called,.api-header{
+     display: flex;
+     flex-direction:row;
+     flex-wrap: wrap;
+}
+.api-called ,.titile{
+      padding: 10px;;
+     
+}
+ .titile p{
+     width: 200px;;
+      color: white;
+      text-align: center;
+      padding: 10px;;
+ }
+  .id{
+    background-color:black;
+  }
+  .id h2{
+     color: red;
+     text-align: center;
+  }

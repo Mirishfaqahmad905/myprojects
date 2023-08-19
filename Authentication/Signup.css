@@ -1,0 +1,54 @@
+form{
+      background-color: black;
+       padding: 23px;;
+         
+}
+ input{
+      display: block;
+       padding: 10px;;
+        width: 500px;;
+         margin-left:300px;
+      margin-top: 23px;;
+ }
+   input[type="submit"]{
+      width: 200px;;
+       background-color: green;
+        color: white;
+         font-size: 12px;;
+          margin-left: 400px;;
+           transition:0.4s linear all;
+   }
+    input[type="submit"]:hover{
+      background-color: rgb(4, 247, 4);
+        
+    }
+     @media(max-width:800px){
+       form input {
+         width: 40%;
+ margin-left: 300px;
+        ;
+       }
+        input[type="submit"]{
+           width: 100px;;
+      
+            margin-left: 400px;;
+        }
+     
+     }
+      @media(max-width:600px){
+        form input{
+           width: 30%;;
+            margin-right:600px;;
+        }
+      }
+      @media(max-width:400px){
+        form input{
+           width: 20%;;
+            margin-right:300px;;
+        }
+        input[type="submit"]{
+          width: 100px;;
+          
+           margin-left: 200px;;
+       }
+      }

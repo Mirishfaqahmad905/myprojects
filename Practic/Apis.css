@@ -1,0 +1,24 @@
+.api-fetch{
+     background-color: rgb(108, 160, 160);
+ height: 999px;;
+  text-align: center;
+   color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+    }
+    .api-fetch,form{
+         text-align: center;
+          
+    }
+     .form-data
+{
+     width: 200px;;
+}     
+ input[type='search']{
+     width: 400px;;
+      text-align: center;
+       margin-left: 460px;;
+ }
+  /* .input[type='submit']{
+     margin-left: 250px;;
+  } */

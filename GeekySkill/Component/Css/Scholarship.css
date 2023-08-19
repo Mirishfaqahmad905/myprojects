@@ -1,0 +1,30 @@
+ /* .Scholarship-parent{
+     display: flex;;
+     background-color: white;
+       
+
+     } */
+     
+     .Scholarship-left-scrolling ul li {
+         width: 200px;
+    
+         background-color: black;
+      text-align: center;
+        margin-top: 10px;;
+        padding: 10px;;
+         cursor: pointer;
+         list-style: none;
+          transition: linear 0.3s all;
+     }
+      .Scholarship-left-scrolling ul li :hover{     
+ border-bottom: solid gainsboro;
+ 
+}
+       /* .Scholarship-right-content{
+         margin-top: 10px;; 
+        padding: 10px;;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+           background-color: rgb(8, 8, 26);
+        text-align: center;
+         color: white;
+       }  */

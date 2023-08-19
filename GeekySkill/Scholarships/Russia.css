@@ -1,0 +1,16 @@
+.my-left-content-container{
+      display: flex;
+  
+}
+ .right-container{
+       background-color: black;
+        color: rgb(240, 235, 235);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 200px;;
+     text-align: center;
+      }
+       .right-container,.my-contenet{
+             color: white;
+             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+             text-align: center;
+       }

@@ -1,0 +1,53 @@
+.bloging{
+     padding: 10px;;
+      background-color: white;
+}
+.bloging-list{
+     display: grid;
+  
+     color: black;
+grid-template-columns:0.6fr 2fr;
+    }
+     .ul-bloging{
+         scroll-behavior: smooth;
+     overflow:scroll;
+      height: auto;  
+       color: black;
+         background-color: rgb(28, 88, 28);
+        padding: 10px;;
+    }
+     .ul-bloging li{
+        margin-top: 23px;;
+     cursor: pointer;
+      color: black;
+       padding: 10px;; 
+     }
+     .ul-bloging li {
+           list-style-type: none;
+           color: black;
+          }
+     .ul-bloging li a :focus{
+           color: rgb(0, 0, 255);
+          color: black;
+          }
+           .bloging-detail-right p {
+                  padding: 20px;;
+                   font-size: 20px;;
+                font-stretch: expanded;
+                   
+           }
+           .bloging-detail-right h2{
+                text-align: center;
+           }
+           .Resources-left-header{
+               color: white;
+               text-align: center;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;          
+           }
+            @media screen and (max-width:600){
+               .Resources-left-header{
+                    font-size: 12px;;
+                    
+                }
+
+            }

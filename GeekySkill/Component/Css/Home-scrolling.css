@@ -1,0 +1,78 @@
+ .main-img{
+     width:1220px;
+    
+
+ }
+  /* body{
+     background-color: #110f27;
+  } */
+  /* card-css  */
+  .tutorial-list {
+   padding: 100px;;
+  }
+  .home-card{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;;
+
+  }
+  .home-img-one{
+    margin: 20px;;
+    background-color: rgb(0, 126, 158);
+  }
+  .home-btn{
+    color: white;
+    font-size: 18px;;
+    text-align: center;
+    width: 100px;;
+    border-top-left-radius: 10px;;
+    border-bottom-right-radius: 10px;;
+    cursor: pointer;
+     
+    background-color: rgba(5, 15, 36, 0.87);
+  }
+  .home-img-one img {
+    width:180px;;
+   
+  }
+  
+
+  
+
+  
+
+@media screen and (max-width:1000px){
+    .main-img{
+        width:1020px;
+      
+    }     
+
+ }
+ @media screen and (max-width:700px){
+    .main-img{
+        width:460px;
+
+    }     
+
+ }
+ @media screen and (max-width:400px){
+    .main-img{
+        width:400px;
+      
+   
+    }     
+ .tutorial-list{
+   flex-direction: column;
+ }
+ }
+ @media screen and (max-width:200px){
+    .main-img{
+        width:120px;
+     
+   
+    }     
+    .tutorial-list{
+      flex-direction: column;
+    }
+
+ }

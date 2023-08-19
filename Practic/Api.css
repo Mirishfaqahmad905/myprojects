@@ -1,0 +1,77 @@
+.inputData {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.inputFeild {
+    width: 40%;
+    height: 40px;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.location {
+    font-size: 24px;
+    margin-bottom: 10px;
+     background-color: rgb(36, 223, 198);
+      padding: 23px;;
+}
+
+.temp {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.tempin_max {
+    font-size: 18px;
+}
+
+.wave-one {
+   
+    background-size: cover;
+   
+    width: 100%;
+}
+
+.wave-two {
+    background-image: url('./wave\ 5.svg');
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+}
+
+.wave-three {
+    background-image: url('./wave4.svg');
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+      
+}
+
+.error {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+  .box{
+     background-color: darkcyan;
+      text-align: center;
+       width: 1000px;;
+        margin-left: 400px;;
+         height: 900px;;
+  }
+/*  */

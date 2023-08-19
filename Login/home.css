@@ -1,0 +1,19 @@
+
+  nav ul {
+     display: grid;
+      grid-template-columns: 2fr 2fr 2fr 2fr ;
+       padding: 23px;;
+  }
+ nav ul li {
+     background-color: rgb(153, 153, 14);
+      color: white;
+       list-style-type: none;
+        padding: 23px;;
+        
+ }
+  nav ul li  {
+     color: white;
+      font-size: large;
+       text-decoration: none;
+  }
+ 

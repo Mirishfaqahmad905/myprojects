@@ -1,0 +1,16 @@
+.MusicPlayer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;;
+     text-align: center;
+      margin-top: 200px;;
+      
+        margin-left: 200px;;
+     
+  }
+  #src{
+     background-color: green;
+      width: 100px;;
+       margin-top:40px;;
+  }
+  
+  

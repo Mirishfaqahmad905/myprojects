@@ -1,0 +1,75 @@
+.season-container {
+    display: flex;
+    margin: 20px;
+  }
+  
+  .season-poster {
+    flex: 1;
+  }
+  
+  .season-poster img {
+    max-width: 100%;
+  }
+  
+  .season-details {
+    flex: 2;
+    padding: 0 20px;
+  }
+  
+  .season-title {
+    font-size: 24px;
+    margin-top: 0;
+  }
+  
+  .season-overview {
+    font-size: 16px;
+  }
+  
+  .season-episodes-title {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .season-episodes-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .season-episode {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .episode-number {
+    font-weight: bold;
+  }
+  
+  .episode-title {
+    margin-left: 5px;
+  }
+  
+  .season-credits-title {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .season-credits-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .season-credit {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .season-credit-title {
+    font-weight: bold;
+  }
+  
+  .season-credit-value {
+    margin-left: 5px;
+  }
+  

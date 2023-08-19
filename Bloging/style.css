@@ -1,0 +1,41 @@
+.blog-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: lightgray;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+  }
+  
+  .content-container {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .home-page {
+    text-align: center;
+  }
+  
+  .about-page {
+    text-align: center;
+  }
+  
+  .footer {
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+  }
+  

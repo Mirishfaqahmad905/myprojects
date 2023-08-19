@@ -1,0 +1,28 @@
+ nav{
+     background-color: green;
+      color: rgb(245, 245, 245);
+ }
+  nav ul {
+     display: grid;
+      grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+       padding: 23px;;
+
+  }
+   nav ul li {
+     list-style: none;
+      color: white;
+
+   }
+    nav ul input[type="search"]{
+       background-color: white;
+        width: 200px;;
+    }
+     nav ul  input[type='submit']{
+       background-color: black;
+        color: white;
+         width: 40px;;
+     }
+      nav ul form{
+          background-color: white;
+          padding: 10px;;
+      }
